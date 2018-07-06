@@ -1,0 +1,6 @@
+﻿  class_.cpp
+c:\users\дмитрий\documents\visual studio 2017\projects\button_game\button_game\class_.cpp(75): warning C4244: инициализация: преобразование "INT" в "FLOAT", возможна потеря данных
+c:\users\дмитрий\documents\visual studio 2017\projects\button_game\button_game\class_.cpp(81): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\дмитрий\documents\visual studio 2017\projects\button_game\button_game\class_.cpp(148): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  button_game.vcxproj -> C:\Users\Дмитрий\Documents\Visual Studio 2017\Projects\button_game\Debug\button_game.exe
+  button_game.vcxproj -> C:\Users\Дмитрий\Documents\Visual Studio 2017\Projects\button_game\Debug\button_game.pdb (Partial PDB)
